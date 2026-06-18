@@ -6,3 +6,4 @@ Lütfen oynamak istediğiniz istemciyi seçin:
 
 Tablet, Telefon oyuncuları için JS versiyonlar:
 * [Eaglercraft 1.8.8](Eaglercraft/JS-Edition/index.html)
+* [Pixelclient 1.8.8](PixelClient/JS-Edition/index.html)
