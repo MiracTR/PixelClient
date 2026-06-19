@@ -6,7 +6,7 @@ Lütfen oynamak istediğiniz istemciyi seçin (sadece bilgisayar oyuncuları iç
 
 Tablet, Telefon oyuncuları için JS versiyonlar:
 * [Eaglercraft 1.8.8](Eaglercraft/JS-Edition/index.html)
-* [Pixelclient 1.8.8](PixelClient/JS-Edition/index.html) (Tablet ve Telefon oyncuları için en iyi seçenek. Not: bilgisayardan oynayacaksanız bunu değil yukardaki PixelClient'i seçin ya da yandakine tıklayın: [PixelClient - 1.8.8](PixelClient/index.html))
+* [Pixelclient 1.8.8](PixelClient/JS-Edition/index.html) (Tablet ve Telefon oyncuları için en iyi seçenek. Not: bilgisayardan oynayacaksanız bunu değil yukardaki PixelClient'i seçin ya da şuna tıklayın: [PixelClient - 1.8.8](PixelClient/index.html))
 
 # English
 
