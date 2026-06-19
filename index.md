@@ -13,7 +13,7 @@ Tablet, Telefon oyuncuları için JS versiyonlar:
 Please select the client you want to play (for PC players only):
 
 * [PixelClient - 1.8.8](PixelClient/index.html) (Recommended)
-* [ResentClient - 1.8.8](ResentClient/index.html) (PvP Client, but Pixel Client was ported because it's more stable and still has PvP settings)
+* [ResentClient - 1.8.8](ResentClient/index.html) (PvP Client, but I recommend Pixel Client because it's more stable and has more PvP settings)
 * [Eaglercraft - 1.8.8](Eaglercraft/index.html) (Original and clean Eaglecraft Client. No additions included.)
 
 JS versions for Tablet and Phone players:
